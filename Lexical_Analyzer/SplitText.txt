@@ -1,0 +1,1 @@
+This CPP Program intends on extracting each word of the text file following spaces.
